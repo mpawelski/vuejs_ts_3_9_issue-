@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^3.9.5",
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   }
 }
